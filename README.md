@@ -1,2 +1,2 @@
-# Bayesian-Optimization-with-Gaussian-Process
+# Bayesiain Optimization with Gaussian Processes
  
